@@ -20,7 +20,7 @@ google-resumable-media==0.3.2
 googleapis-common-protos==1.6.0
 grpc-google-iam-v1==0.12.3
 grpcio==1.22.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 JSON-log-formatter==0.2.0
 jwcrypto==0.6.0
 # TODO(jlewi): Is the JWT module replaced by PyJWT?
