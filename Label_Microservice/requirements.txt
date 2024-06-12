@@ -114,7 +114,7 @@ pytest==5.0.1
 python-dateutil==2.8.0
 python-Levenshtein==0.12.0
 pytz==2019.1
-PyYAML==5.1.2
+PyYAML==5.4
 pyzmq==18.0.2
 qtconsole==4.5.1
 regex==2019.6.8
